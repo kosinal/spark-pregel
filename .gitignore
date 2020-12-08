@@ -1,0 +1,62 @@
+**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### MVNW ###
+.mvn
+mvnw*
+
+### Encoded Files ###
+*.enc
+**/*.enc
+
+
+### Spark files ###
+.DS_Store
+**/.DS_Store
+
+### Maven shade plugin ###
+**/dependency-reduced-pom.xml
+
+### Jupyter checkpoints ###
+.ipynb_checkpoints
+
+### Downloaded data ###
+adult.data
+
+### TMP ###
+_tmp
+**/_tmp
+
+_input
+_output
+
+### Pyarmor Dist Folders ###
+**/dist
+
+### Python cache ###
+__pycache__
+**/__pycache__
+
+### Input and Output folders for testing ###
